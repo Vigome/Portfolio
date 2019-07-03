@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Portfolio/static/css/main.d5fa9caf.chunk.css",
+    "main.css": "/Portfolio/static/css/main.f8dbb92f.chunk.css",
     "main.js": "/Portfolio/static/js/main.dd66b8cf.chunk.js",
     "main.js.map": "/Portfolio/static/js/main.dd66b8cf.chunk.js.map",
     "runtime~main.js": "/Portfolio/static/js/runtime~main.132fbc8c.js",
@@ -8,11 +8,11 @@
     "static/js/2.aa2deb85.chunk.js": "/Portfolio/static/js/2.aa2deb85.chunk.js",
     "static/js/2.aa2deb85.chunk.js.map": "/Portfolio/static/js/2.aa2deb85.chunk.js.map",
     "index.html": "/Portfolio/index.html",
-    "precache-manifest.102a7de580116968bbd6d42c4fc17325.js": "/Portfolio/precache-manifest.102a7de580116968bbd6d42c4fc17325.js",
+    "precache-manifest.655ee339fa5b4d0ef53b915dbc776d7b.js": "/Portfolio/precache-manifest.655ee339fa5b4d0ef53b915dbc776d7b.js",
     "service-worker.js": "/Portfolio/service-worker.js",
-    "static/css/main.d5fa9caf.chunk.css.map": "/Portfolio/static/css/main.d5fa9caf.chunk.css.map",
+    "static/css/main.f8dbb92f.chunk.css.map": "/Portfolio/static/css/main.f8dbb92f.chunk.css.map",
     "static/media/56325290_321212165100586_5703099949223247872_n.png": "/Portfolio/static/media/56325290_321212165100586_5703099949223247872_n.f9417942.png",
-    "static/media/App.css": "/Portfolio/static/media/travel-agency.cfe84e1a.jpg",
+    "static/media/App.css": "/Portfolio/static/media/travel-agency.e2343e85.jpg",
     "static/media/jquery.png": "/Portfolio/static/media/jquery.984be8b9.png",
     "static/media/redux.png": "/Portfolio/static/media/redux.b51d1861.png"
   }
